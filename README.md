@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @Ekow55
-- 👀 I’m interested in programming and AI development
-- 🌱 I’m currently learning how to program in Java and looking to study AI.
-- 💞️ I’m looking to collaborate on any project geared towards app design and AI development
-- 📫 How to reach me: ekownhyira14@gmail.com
-- 😄 Pronouns:
-- ⚡ Fun fact: love singing
+👋 Hey, I’m Ekow (@Ekow55)
+🚀 Passionate about programming, AI development, and cybersecurity
+🌱 Currently exploring AI concepts, learning Figma design, and building my cybersecurity skills
+💻 Also enjoy working with hardware, networking, and client support
+🤝 Open to collaborating on app design, AI-driven solutions, and security projects
+📫 Reach me at: ekownhyira14@gmail.com
 
-<!---
-Ekow55/Ekow55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎶 Fun fact: I love singing as much as I love tech!
